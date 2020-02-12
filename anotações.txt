@@ -1,7 +1,0 @@
-Clinica (Pacientes, Medicos e Consultas)
-
-Pacientes("Prontuario"(Cadastro))
-
-Medicos(Especialiade)
-
-Consultas(Pacientes, Medicos)
